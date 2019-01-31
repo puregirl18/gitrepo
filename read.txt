@@ -3,3 +3,4 @@ git is a good tool.
 eh,
 dit is a distributed version control system.
 ok
+let s have a reset.
