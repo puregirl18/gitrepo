@@ -4,3 +4,4 @@ eh,
 dit is a distributed version control system.
 ok
 let s have a reset.
+let us add same things.
